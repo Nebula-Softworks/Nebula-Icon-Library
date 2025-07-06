@@ -4,6 +4,8 @@ module.Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Neb
 module.Lucide = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-Softworks/Nebula-Icon-Library/master/LucideIcons.lua"))()
 
 function module:GetIcon(name, source)
+	source = source or "Material"
+
 	return module[source][name]
 end
 
