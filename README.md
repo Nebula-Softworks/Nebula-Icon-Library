@@ -25,6 +25,7 @@ local Button = Groupbox:CreateButton({
 })
 ```
 > if you are using the Alpha 1 Release of starlight, set ImageSource to `custom`  
+
   
 ## How to use Nebula Icons Outside of Starlight  
 Let's say you're using Nebula Icons for your own projects in roblox, or another UI Library  
@@ -46,6 +47,7 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
   
 ### I might fix the grammar/typos soon but yea  
 
+  
 ## Available Icon Libraries:
 - Material Icons (outdated/old, some funny names and no current documentation/searcher). | Default  
 - [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use)  
