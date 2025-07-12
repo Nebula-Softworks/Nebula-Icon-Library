@@ -55,5 +55,8 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
   Champagne Renamed to glass-liquid  
   Cigaratte Renamed to cig (and variations)  
   Gender-Intersex renamed to gender-intermix  
+  Pinterest-Logo renamed to pintrest-logo (yes this is stupid ik, but yea)  
+  Wine Renamed to glass-liquid-2  
+  Whatsapp-Logo Renamed to wa-logo
 - Material Symbols | COMING SOON  
 ### More Icons will be coming soon
