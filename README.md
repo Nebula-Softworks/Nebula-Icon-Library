@@ -51,6 +51,9 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 ## Available Icon Libraries:
 - Material Icons (outdated/old, some funny names and no current documentation/searcher). | Default  
 - [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use)  
-- [Phosphor Icons](https://phosphoricons.com/). (Champagne, and cigarrate (variations) renamed to cig (variations also) due to roblox moderation) | Regular And Filled Style  
+- [Phosphor Icons](https://phosphoricons.com/). | Regular And Filled Style  
+  Champagne Renamed to glass-liquid  
+  Cigaratte Renamed to cig (and variations)  
+  Gender-Intersex renamed to gender-intermix  
 - Material Symbols | COMING SOON  
 ### More Icons will be coming soon
