@@ -52,11 +52,5 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 - Material Icons (outdated/old, some funny names and no current documentation/searcher). | Default  
 - [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use)  
 - [Phosphor Icons](https://phosphoricons.com/). | Regular And Filled Style  
-  Champagne Renamed to glass-liquid  
-  Cigaratte Renamed to cig (and variations)  
-  Gender-Intersex renamed to gender-intermix  
-  Pinterest-Logo renamed to pintrest-logo (yes this is stupid ik, but yea)  
-  Wine Renamed to glass-liquid-2  
-  Whatsapp-Logo Renamed to wa-logo
 - Material Symbols | COMING SOON  
 ### More Icons will be coming soon
