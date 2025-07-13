@@ -53,4 +53,5 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 - [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use)  
 - [Phosphor Icons](https://phosphoricons.com/). | Regular And Filled Style  
 - Material Symbols | COMING SOON  
+### To Use Different Styles, Add The Style Name As A Suffix Via - | So For Phosphor Filled, I'll put Phosphor-Filled as the source.  
 ### More Icons will be coming soon
