@@ -37,7 +37,7 @@ rayfield icons accept a number without the prefix, the same as starlight. so we 
 local Tab = Window:CreateTab('Rayfield Tab', NebulaIcons:GetIcon("view_in_ar", "Material"))
 ```
   
-but lets say we are using this on a library like [CompKiller](https://github.com/4lpaca-pin/CompKiller/blob/main/examples/Full.luau) (which for gods sake looks like starlight wtf WHYYY :sob:) or just making UIs in roblox and setting the icon via scripting
+but lets say we are using this on a library like [CompKiller](https://github.com/4lpaca-pin/CompKiller/blob/main/examples/Full.luau) (which for gods sake looks like starlight wtf WHYYY :sob:) or just making UIs in roblox and setting the icon via scripting  
 the icons accept the full image parameter from ImageLabel. this means we have to include the `rbxassetid://` prefix. Now this is very simple as well. we can simply use `..` that lua provides to join strings  
   
 heres it in action:  
