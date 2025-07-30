@@ -49,9 +49,13 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 
   
 ## Available Icon Libraries:
-- Material Icons (outdated/old, some funny names and no current documentation/searcher). | Default  
-- [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use)  
-- [Phosphor Icons](https://phosphoricons.com/). | Regular And Filled Style  
-- Material Symbols | COMING SOON  
+| Icon Library Name | Identifier |
+| --- | --- |
+| Material Icons (outdated/old, some funny names and no current documentation/searcher). - Default | Material |  
+| [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use) | Lucide |  
+| [Phosphor Icons](https://phosphoricons.com/). - Regular And Filled Style | Phosphor |  
+| [SF Symbols (Apple)](https://sf-symbols-one.vercel.app/). - Just Apple Icons, Nothing to rlly say | SF |
+| Material Symbols | COMING SOON |  
+| Font Awesome 7 | COMING SOON |  
 ### To Use Different Styles, Add The Style Name As A Suffix Via - | So For Phosphor Filled, I'll put Phosphor-Filled as the source.  
 ### More Icons will be coming soon
