@@ -1,5 +1,11 @@
 # Nebula Icon Library 🪐  
 The Ultimate Icon Library For Roblox Interfaces.  
+
+## Booting The Library  
+```lua
+local NebulaIcons = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/nebula-icon-library-loader"))()
+```
+> You can use a raw github link from this repository instead too, however you might need to occasionally update it incase it changes.  
   
 ## How to Use The Nebula Icon Library In Starlight  
 For any Icon parameter in starlight, it always accepts the asset id of the image.  
