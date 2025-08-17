@@ -52,7 +52,7 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 | Icon Library Name | Identifier |
 | --- | --- |
 | Material Icons (outdated/old, some funny names and no current documentation/searcher). - Default | Material |  
-| [Lucide Icons](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use) | Lucide |  
+| [Lucide Icons 0.539.0](https://lucide.dev/icons). (some names have been changed, but should still generally be easy to use) | Lucide |  
 | [Phosphor Icons](https://phosphoricons.com/). - Regular And Filled Style | Phosphor |  
 | [SF Symbols (Apple)](https://sf-symbols-one.vercel.app/). - Just Apple Icons, Nothing to rlly say | SF |
 | Material Symbols | COMING SOON |  
