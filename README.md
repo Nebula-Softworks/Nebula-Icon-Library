@@ -58,7 +58,7 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 | Icon Library Name | Identifier |
 | --- | --- |
 | Material Icons (outdated/old, some funny names and no current documentation/searcher). - Default | Material |  
-| [Lucide Icons 0.539.0](https://lucide.dev/icons). (Version 0.539!! New Icons From Releases Beyond This Number Won't Exist) Missing Fan, Equal, Equal-Not | Lucide |  
+| [Lucide Icons 0.539.0](https://lucide.dev/icons). (Version 0.539!! New Icons From Releases Beyond This Number Won't Exist) | Lucide |  
 | [Phosphor Icons](https://phosphoricons.com/). - Regular And Filled Style | Phosphor |  
 | [SF Symbols (Apple)](https://sf-symbols-one.vercel.app/). - Just Apple Icons, Nothing to rlly say | SF |
 | [Lucide Lab](https://lucide.dev/icons). | COMING SOON |
