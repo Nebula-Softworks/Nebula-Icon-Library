@@ -7,14 +7,14 @@ The Ultimate Icon Library For Roblox Interfaces.
   
   
    
-# outdated
-## Booting The Library  
+outdated
+Booting The Library  
 ```lua
 local NebulaIcons = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/nebula-icon-library-loader"))()
 ```
 > You can use a raw github link from this repository instead too, however you might need to occasionally update it incase it changes.  
   
-## How to Use The Nebula Icon Library In Starlight  
+How to Use The Nebula Icon Library In Starlight  
 For any Icon parameter in starlight, it always accepts the asset id of the image.  
 We can use the GetIcon function from the Library to return an asset id of our choice  
   
@@ -40,7 +40,7 @@ local Button = Groupbox:CreateButton({
 > if you are using the Alpha 1 Release of starlight, set ImageSource to `custom`  
 
   
-## How to use Nebula Icons Outside of Starlight  
+How to use Nebula Icons Outside of Starlight  
 Let's say you're using Nebula Icons for your own projects in roblox, or another UI Library  
 this will show you how to use this without errors  
   
@@ -58,10 +58,10 @@ heres it in action:
 Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Material"), 2.5).yield();
 ```
   
-### I might fix the grammar/typos soon but yea  
+ might fix the grammar/typos soon but yea  
 
   
-## Available Icon Libraries:
+Available Icon Libraries:
 | Icon Library Name | Identifier |
 | --- | --- |
 | Material Icons (outdated/old, some funny names and no current documentation/searcher). - Default | Material |  
@@ -71,5 +71,5 @@ Compkiller:Loader("rbxassetid://" ..  NebulaIcons:GetIcon("view_in_ar", "Materia
 | [Lucide Lab](https://lucide.dev/icons). | COMING SOON |
 | Material Symbols | COMING SOON |  
 | Font Awesome 7 | COMING SOON |  
-### To Use Different Styles, Add The Style Name As A Suffix Via - | So For Phosphor Filled, I'll put Phosphor-Filled as the source.  
-### More Icons will be coming soon
+To Use Different Styles, Add The Style Name As A Suffix Via - | So For Phosphor Filled, I'll put Phosphor-Filled as the source.  
+More Icons will be coming soon
