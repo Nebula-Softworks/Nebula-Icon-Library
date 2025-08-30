@@ -7,7 +7,7 @@ The Ultimate Icon Library For Roblox Interfaces.
   
   
    
-outdated
+outdated  
 Booting The Library  
 ```lua
 local NebulaIcons = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/nebula-icon-library-loader"))()
